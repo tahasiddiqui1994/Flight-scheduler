@@ -1,0 +1,8 @@
+7
+5288 1107 Amjad_Ali Airbus_A319 800 Karachi-Lahore
+7648 1108 Zawar_Ahmed Boeing_737 550 Karachi-Islamabad
+2245 1908 Saad_Jumani Bombardier_Q400 563 Quetta-Peshawar
+9572 8472 Taha_Siddiqui Vulcan_B.2 350 Islamabad-London
+8399 1840 Usman_Mahmood Fokker_F27 450 Lahore-Bombay
+9635 5487 Mujtaba_Hasan Douglas_C-53D_Skytrooper 455 karachi-hyderabad
+8214 5632 Rehan_Ayub Ilyushin_Il-96 455 karachi-hyderabad

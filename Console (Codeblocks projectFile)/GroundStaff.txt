@@ -1,0 +1,19 @@
+18
+8764 Arsalan Aman 80000 0342-2197230 FB-Area Accountant
+2596 Sohail Rehman 100000 0311-5692847 Shah-Faisal-Colony Assistant-Manager
+1527 Saad Jumani 50000 0323-5698742 Defence Flights_Sheduler
+9837 M.Taha Siddiqui 90000 0345-8636954 Shamsi-Society Operations_Agent
+5624 Azhar Ali 125000 0312-3625147 Drigh-Road Avionics_Technicians
+4293 Faisal Shakir 530045 0342-2197230 Korangi Aviation_Meteorologist
+5794 Sakshi Manglani 6392547 0333-2246810 New-Karachi Passenger_Service_Agent
+6927 Shahan uddin 32695 0342-4563269 Gulshan-e-Iqbal Ramp_Planner
+3917 Sibtain kanani 754123 0332-5698245 Gulistan-e-Johar Sales_Representative
+8968 Ahmed Madni 2618754 0331-3145287 Askari-IV Crew_Schedule_Coordinator
+2879 Annas Ali 210210 0313-1245879 PAF-Chapter Airline_Ticket_Agent
+2256 Waqas Khan 693965 0310-2316895 P.E.C.H.S Reservation_Sales_Agent
+331 Abdullah Nasir 45850 0315-5263941 Sindhi-Muslim Aviation_Attorney
+5336 Malhar Bhutto 910263 0314-2566987 Liyari Ground_Operations_Manager
+2336 Mirza Ashir 60000 0321-5698244 Malir-Cantt Crew_Liaison_Officer
+9663 Jadaoun Ghouri 55000 0343-5525694 Malir-Cantt Facilities_Manager
+4554 faizan jadoon 450000 03456632987 north-karachi manager
+6639 Maryam Siddiqui 80000 03042213698 Jamia-Milia Chief-Executive-Officer

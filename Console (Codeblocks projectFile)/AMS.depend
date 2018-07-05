@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1464720732 source:c:\users\taha_\desktop\project103\airport.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Airport.h"
+	"Pilot.h"
+	"Plane.h"
+
+1464718769 c:\users\taha_\desktop\project103\airport.h
+	<iostream>
+	"Plane.h"
+	"GroundStaff.h"
+	"onBoardStaff.h"
+	"Flight.h"
+	<fstream>
+	<string>
+
+1464697990 c:\users\taha_\desktop\project103\plane.h
+	<iostream>
+	<string>
+
+1464693796 c:\users\taha_\desktop\project103\groundstaff.h
+	<iostream>
+	<fstream>
+	<string>
+	"Staff.h"
+
+1464693184 c:\users\taha_\desktop\project103\staff.h
+	<iostream>
+	<fstream>
+	<string>
+
+1464693788 c:\users\taha_\desktop\project103\onboardstaff.h
+	<iostream>
+	<fstream>
+	<string>
+	"Staff.h"
+
+1464708904 c:\users\taha_\desktop\project103\flight.h
+	<iostream>
+	"Pilot.h"
+	"Plane.h"
+	<iostream>
+	<string>
+
+1464704086 c:\users\taha_\desktop\project103\pilot.h
+	<iostream>
+	<fstream>
+	<string>
+
+1464716522 source:c:\users\taha_\desktop\project103\flight.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Flight.h"
+
+1464693996 source:c:\users\taha_\desktop\project103\groundstaff.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"GroundStaff.h"
+
+1464706250 source:c:\users\taha_\desktop\project103\main.cpp
+	<iostream>
+	<cstdlib>
+	"Pilot.h"
+	"GroundStaff.h"
+	"onBoardStaff.h"
+	"Passenger.h"
+	"Plane.h"
+	"Airport.h"
+	"Flight.h"
+
+1464694232 c:\users\taha_\desktop\project103\passenger.h
+	<iostream>
+	<string>
+
+1464694072 source:c:\users\taha_\desktop\project103\onboardstaff.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"onBoardStaff.h"
+
+1464694328 source:c:\users\taha_\desktop\project103\passenger.cpp
+	<iostream>
+	"Passenger.h"
+
+1464628486 source:c:\users\taha_\desktop\project103\plane.cpp
+	<iostream>
+	"Plane.h"
+
+1464772680 source:c:\users\taha_\desktop\project103\staff.cpp
+	<iostream>
+	"Staff.h"
+	"GroundStaff.h"
+	"onBoardStaff.h"
+	<string>
+

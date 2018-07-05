@@ -1,0 +1,13 @@
+12
+8764 Saad Jumani 12345 85660 0342-2197230 Maymar Captain
+2596 Taha Siddiqui 14234 85550 0311-5692847 Malir-Halt Co-Pilot
+1527 Zawar Ahmed 15000 150000 0323-5698742 Dastagir Flights_Engineer
+9837 ahmed feroz 97700 20000 0345-8636954 Shamsi-Society Air_Hostess
+5624 zain haq 125 300880 0312-3625147 Drigh-Road Air_Hostess
+4293 saad ahmed 55530 44550 0342-2197230 Korangi Air_Hostess
+5794 shahan uddin 634320 25001 0333-2246810 New-Karachi Air_Hostess
+6927 annas ali 32000 95000 0342-4563269 Gulshan-e-Iqbal assistant-manager
+3917 Sibtain kanani 75224 122200 0332-5698245 Gulistan-e-Johar manager
+5336 Zain Madni 2623 8750 0331-3145287 Askari-IV co-ordinator
+5889 danial ziauddin 58000 69000 03325874699 cantonment manager
+2563 Ayesha Siddiqui 87000 50000 03142345678 Jamia-Milia Air-Hostice

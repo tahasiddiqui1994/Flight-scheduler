@@ -1,0 +1,23 @@
+Jinnah International Airport
+7
+2.7
+3.3
+4
+1.9
+5
+1.9
+8.1
+12
+Airbus_A319 259
+Boeing_737 450
+Airbus_A330 355
+Boeing_777 600
+Airbus_A320 750
+Bombardier_Q400 400
+Vulcan_B.2 650
+Boeing_787-8_Dreamliner 350
+Fokker_F27 330
+Douglas_C-53D_Skytrooper 290
+Ilyushin_Il-96 512
+Embraer_190 700
+6
